@@ -1,0 +1,46 @@
+fare la spesa
+1.controllare le mancanze in dispensa(input)
+2.lista della spesa
+3.Uscire
+4.Prendere la macchina
+5.Recarsi al Supermercato
+6.Scegliere i prodotti
+7.aspettare in fila
+8.pagare in cassa
+9.Ritorno a casa
+10.Sistemazione prodotti(output)
+
+studiare un concetto
+1.lettura(input)
+2.comprensione
+3.analisi
+4.schema concettuale
+5.ripetizione(output)
+
+
+Riempire il serbatoio dell'auto
+1.uscire(input)
+2.prendere la macchina
+3.recarsi al rifornimento
+4.scegliere fai da te o servito
+5.pagare
+6.spegnere auto
+7.erogazione servizio
+8.accensione auto
+9.pianto per la benzina
+10.ritorno a casa(output)
+
+
+Acquistare uno snack
+1.trovare una macchinetta funzionante(input)
+2.scegliere lo snack
+3.controllo prezzo snack
+4.controllo finanze
+5.scegliere lo snack prescelto
+6.inserire le monete
+7.inserire il codice dello snack
+8.erogazione prodotto
+9.prendere prodotto
+10.prendere eventuale resto(output)
+
+
